@@ -1,5 +1,4 @@
-# CS338
-
+# CS338 Shine Name Project
 download our sample data here:
-https://github.com/Yanjie-GH/CS338/blob/e485d2f22e8f609dda50596cc6826578daeacd91/VET.csv 
+https://github.com/Yanjie-GH/CS338/blob/78f22db59fe5e460e2ceaf3347393125c0906a54/VET%20(1).csv
 
